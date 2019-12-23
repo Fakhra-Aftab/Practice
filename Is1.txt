@@ -1,7 +1,4 @@
 Fix Sign-In/Sign-Up Page
-Hello World!!
-Hello World!!
-Hello World!!
-Hello World!!
-Hello World!!
-Hello World!!
+Lets write code for it!!
+First of all write the pseudocode.
+
